@@ -33,7 +33,7 @@ require_once __DIR__ . "/components/pageHead.php"
                     <img src='$poster' class='card-img-top rounded-0' alt='$title'/>
                     <div class='card-body text-center'>
                       <h5 class='text-white m-0 pb-3'>$title</h5>
-                      <h6 class='text-secondary m-0 pb-2'>$author</h6>
+                      <h6 class='text-secondary m-0'>$author</h6>
                       <p class='text-secondary m-0'>$year</p>
                     </div>
                   </div>
