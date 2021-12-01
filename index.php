@@ -17,7 +17,7 @@ require_once __DIR__ . "/components/pageHead.php"
     <img src="assets/spotify-logo.png" alt="logo">
   </header>
 
-  <main class="bg-main p-5">
+  <main class="bg-main py-5">
     <div class="container">
       <div class="row row-cols-5 g-4">
         <?php
