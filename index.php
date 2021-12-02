@@ -8,7 +8,7 @@ require_once __DIR__ . "/data/data.php";
 
 <?php
 // "importo" il tag <head> della pagina (facilmente replicabile su altre pg.) pb-card
-require_once __DIR__ . "/components/pageHead.php"
+require_once __DIR__ . "/components/head.php"
 ?>
 
 <body>

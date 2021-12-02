@@ -1,7 +1,7 @@
 <head>
   <?php
   // "importo" i metadati che vanno nella prima parte del tag <head>
-  include_once __DIR__ . "/pageMeta.php";
+  include_once __DIR__ . "/meta.php";
   ?>
 
   <title>PHP Ajax Dischi</title>
